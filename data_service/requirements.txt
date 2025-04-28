@@ -1,0 +1,8 @@
+litestar==2.15.2
+pydantic-settings==2.9.1
+granian==2.2.5
+sqlalchemy[asyncio]==2.0.40
+asyncpg==0.30.0
+advanced_alchemy==1.4.1
+uvloop==0.21.0
+black==25.1.0
