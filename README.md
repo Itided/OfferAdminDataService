@@ -16,3 +16,9 @@ The service intercepts all incoming requests that begin with /domain/api
 
 ### API Gateway for Admin Panel  
 **Author of OfferAdmin**: [L1onLight](https://github.com/L1onLight) 
+
+# Running the Project in Development Mode
+
+To run the project in development mode, use the following command:
+```bash
+$ make dev
